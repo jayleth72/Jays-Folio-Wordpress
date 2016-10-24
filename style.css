@@ -382,7 +382,7 @@ object {
 
 body {
     margin-top: 50px;
-    font-family: 'Bodoni MT', 'Raleway', Helvetica, sans-serif;
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
     font-size: 16px;
     background: url('/wp-content/themes/jayleth/assets/img/tile.jpg') top left repeat;
 }
@@ -453,7 +453,7 @@ min-height: 80px;
 
 }
 
-.contact-buttons button{
+.contact-buttons a{
    margin: 5px;
 }
 

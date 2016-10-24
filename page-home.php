@@ -22,9 +22,9 @@ get_header(); ?>
                          <div class="contact-buttons text-center">
                              <ul>
                              <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                 <button type="button" class="btn btn-primary btn-lg raised"><bold><i class="fa fa-twitter"></bold></i> Twitter</button>
-                                 <button type="button" class="btn btn-primary btn-lg raised"><i class="fa fa-github"></i> Github</button>
-                                 <button type="button" class="btn btn-primary btn-lg raised"><i class="fa fa-linkedin"></i> Linkedin</button>
+                                 <a href="https://twitter.com/JayLetheby" target="_blank" class="btn btn-primary btn-lg raised"><bold><i class="fa fa-twitter"></bold></i> Twitter</a>
+                                 <a href="https://github.com/jayleth72" target="_blank" class="btn btn-primary btn-lg raised"><i class="fa fa-github"></i> Github</a>
+                                 <a href="https://au.linkedin.com/in/jayletheby" target="_blank" class="btn btn-primary btn-lg raised"><i class="fa fa-linkedin"></i> Linkedin</a>
                              </ul>
                          </div><!-- contact-buttons -->
 
@@ -70,7 +70,7 @@ get_header(); ?>
                <h2 class="page-header">My Folio</h2>
 
                  <div class="col-lg-12">
-                     <h3 class="Responsive align-center">Responsive Webs Sites</h3>
+                     <h3 class="Responsive">Responsive Webs Sites</h3>
                  </div>
 
                  <div class="col-lg-6 col-md-6 col-xs-6 thumb">
@@ -84,7 +84,6 @@ get_header(); ?>
                          <img class="img-responsive" src="<?php bloginfo('stylesheet_directory');?>/assets/img/leesartgallery.png" alt="thumbnail of leesartgallery website">
                      </a>
                  </div>
-             </div><!-- row -->
 
              <div class="row" id="game-gallery">
 
